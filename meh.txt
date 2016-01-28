@@ -1,0 +1,5 @@
+check for memory leaks
+must not redraw every single time
+must add to the user array, must not recreate every time
+handle errors
+must not have repeat any color
