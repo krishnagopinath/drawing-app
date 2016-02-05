@@ -13,7 +13,8 @@ function addClick(x, y, color, dragging) {
     users[color] = {
       clickX: [],
       clickY: [],
-      clickDrag: []
+      clickDrag: [],
+      pointer : 0
     };
   }
 
